@@ -1,0 +1,5 @@
+baseURL = "https://cocktailsforprogrammers.com/"
+languageCode = "en-us"
+# theme = "github-style"
+theme = "bilberry-hugo-theme"
+title = "Cocktails for Programmers"
